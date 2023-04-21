@@ -1,0 +1,16 @@
+{
+    "employees": [
+        {
+            "nome": "Ivan",
+            "funcao": "Backend",
+            "salario": 2000,
+            "id": "f9b32d8a-6cff-40f4-8e92-67534f35f1e3"
+        },
+        {
+            "nome": "Axel",
+            "funcao": "Fullstack",
+            "salario": 20000,
+            "id": "e617e17d-8205-4bcc-828a-d1e828f0015a"
+        }
+    ]
+}
